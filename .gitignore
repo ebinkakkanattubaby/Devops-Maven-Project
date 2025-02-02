@@ -1,0 +1,19 @@
+# Ignore target folder (compiled files)
+target/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+
+# Ignore build logs
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+ 
